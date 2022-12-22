@@ -3,6 +3,7 @@ library(GGally)
 library(corrplot)
 
 ##random gobble gum generator
+
 sample(1:15, size = 5, replace = F) 
 
 ##data importation
